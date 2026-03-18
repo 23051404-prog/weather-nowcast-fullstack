@@ -1,6 +1,7 @@
 # weather-nowcast-fullstack
 A full-stack weather application using React, Node.js, and Open-Meteo API.
 # 🌦️ Real-Time Nowcasting Weather Dashboard
+<img width="1321" height="784" alt="image" src="https://github.com/user-attachments/assets/6d7ab672-d667-4763-bcdf-61db68288410" />
 
 A full-stack weather application providing high-resolution, 15-minute interval forecasting using React and Node.js.
 
